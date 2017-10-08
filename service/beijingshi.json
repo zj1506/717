@@ -1,0 +1,17 @@
+{
+    "api": "com.taobao.mtop.deliver.getDivisionChild",
+    "data": {
+        "childDivision": [
+            {
+                "divisionCode": 110100,
+                "post": "100000",
+                "divisionName": "北京市",
+                "isLeaf": 0
+            }
+        ]
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "3.0"
+}

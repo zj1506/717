@@ -1,0 +1,848 @@
+{
+    "api": "mtop.relationrecommend.wirelessrecommend.recommend",
+    "data": {
+        "result": [
+            {
+                "industryList": [],
+                "moduleList": [
+                    {
+                        "link": {
+                            "name": "排行榜",
+                            "type": "salesrank",
+                            "url": "http://h5.m.taobao.com/app/catranklist/www/s-nx-new-catmap-ranklist/index.html?&appId=5522&title=%E7%83%AD%E9%94%80%E6%A6%9C&params=%7B%22catlist%22%3A%2250008062%2C50010513%2C50010535%2C50008056%2C50012598%2C50008616%2C50009866%2C50013099%2C123256001%2C50008618%2C124302001%2C50009558%2C50008617%2C50012987%2C124304001%2C124604001%2C50012991%2C50013082%2C50012996%2C50009562%2C50016429%22%2C%22userpp%22%3A%221%22%2C%22industry%22%3A%2211%22%7D&scm=1007.13113.89009.tab:11_type:salesrank_id:0_reason:rankinglist_rn:90f5288b-6f0d-4a94-916e-933b798f529d&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113&spmb=8971817&spmc=spmc"
+                        },
+                        "type": "cat4",
+                        "title": "休闲零食",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "进口零食",
+                                "id": "0",
+                                "pic": "//img.alicdn.com/imgextra/TB1flYkOXXXXXaMXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E8%BF%9B%E5%8F%A3&catmap=50002766&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=523833457438&scm=1007.13113.89009.tab:11_type:cat4_id:523833457438_reason:_cat:124308001,50010535,50012598,124304001,50008056,50013090,124306001,50013063,124300001,124298001,50012983,124604001,124606001,50012996,124478011,50009557,50010513,124302002,50016092,50009562&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "肉松饼",
+                                "id": "1",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1bEY6PXXXXXbCaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E8%82%89%E6%9D%BE%E9%A5%BC&catmap=50002766&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=537346440535&scm=1007.13113.89009.tab:11_type:cat4_id:537346440535_reason:_cat:50010513;50012598;50008062&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "肉干肉脯",
+                                "id": "2",
+                                "pic": "//img.alicdn.com/imgextra/TB16l8bJVXXXXXhXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E8%82%89%E5%B9%B2&catmap=50008613&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=526113550876&scm=1007.13113.89009.tab:11_type:cat4_id:526113550876_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "饼干",
+                                "id": "3",
+                                "pic": "//img.alicdn.com/imgextra/i1/1607135881/TB2l2smbmmK.eBjSZPfXXce2pXa_!!1607135881.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%A5%BC%E5%B9%B2&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50010511%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:540873250797_reason:second_page_switch_cat:124604001,124308001,124606001,124302001,124306001,124310001,124304001,124298001&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "坚果",
+                                "id": "4",
+                                "pic": "//img.alicdn.com/imgextra/TB1BuxqKFXXXXbdXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E5%9D%9A%E6%9E%9C&catmap=50002766&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=524795049267&scm=1007.13113.89009.tab:11_type:cat4_id:524795049267_reason:_cat:50012987,50012983,50012997,50012998,50012989,50012982,50012986,50012995,126472004,50012996,50012988&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "膨化食品",
+                                "id": "5",
+                                "pic": "//img.alicdn.com/imgextra/i1/739439107/TB2FyHxtXXXXXaaXpXXXXXXXXXX_!!739439107.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%86%A8%E5%8C%96%E9%A3%9F%E5%93%81&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50010535%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:535985805541_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "糖果",
+                                "id": "6",
+                                "pic": "//img.alicdn.com/imgextra/TB1kL2iKpXXXXaZXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%B3%96%E6%9E%9C&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008056%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:41289853242_reason:second_page_switch_cat:50008056&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "薄皮核桃",
+                                "id": "7",
+                                "pic": "//img.alicdn.com/imgextra/i4/2438464540/TB2hMH3jFXXXXX9XXXXXXXXXXXX_!!2438464540.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%96%84%E7%9A%AE%E6%A0%B8%E6%A1%83&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50012985%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:526327682881_reason:second_page_switch_cat:50012985&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "牛肉干",
+                                "id": "8",
+                                "pic": "//img.alicdn.com/imgextra/TB1Uxl.KXXXXXX_aXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%89%9B%E8%82%89%E5%B9%B2&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008616%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:16617610736_reason:second_page_switch_cat:50008616&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "巧克力",
+                                "id": "9",
+                                "pic": "//img.alicdn.com/imgextra/TB1VsQKKVXXXXbPXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E5%B7%A7%E5%85%8B%E5%8A%9B&catmap=50008055&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=521040744659&scm=1007.13113.89009.tab:11_type:cat4_id:521040744659_reason:_cat:124312003,124320001,124478011,124512008,124302002,124492008,124468007,124466010&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "果干",
+                                "id": "10",
+                                "pic": "//img.alicdn.com/imgextra/TB1C_vDKXXXXXcVaXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E6%9E%9C%E5%B9%B2&catmap=50008058&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=522857888965&scm=1007.13113.89009.tab:11_type:cat4_id:522857888965_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "鱿鱼丝",
+                                "id": "11",
+                                "pic": "//img.alicdn.com/imgextra/TB1BVjJKXXXXXa.aXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E9%B1%BF%E9%B1%BC%E4%B8%9D&catmap=50009557&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=45239447807&scm=1007.13113.89009.tab:11_type:cat4_id:45239447807_reason:_cat:50009557&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    },
+                    {
+                        "link": {},
+                        "type": "cat4",
+                        "title": "水产生鲜",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "大闸蟹",
+                                "id": "12",
+                                "pic": "//img.alicdn.com/tfs/TB1BikjXqagSKJjy0FaXXb0dpXa-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/h5?q=%E5%A4%A7%E9%97%B8%E8%9F%B9&catmap=50108542&service=xfzbz&from=catlistnew&closeP4P=true&scm=1007.13113.89009.tab:11_type:cat4_id:12_reason:_cat:50016792&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "牛排",
+                                "id": "13",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1SO68NFXXXXbvXVXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/h5?q=%E7%89%9B%E6%8E%92&catmap=50108542&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=539848039058&scm=1007.13113.89009.tab:11_type:cat4_id:539848039058_reason:_cat:50050678&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "海参",
+                                "id": "14",
+                                "pic": "//img.alicdn.com/imgextra/TB1k26vJFXXXXbVXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%B5%B7%E5%8F%82&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50016772%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:17784416349_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "三文鱼",
+                                "id": "15",
+                                "pic": "//img.alicdn.com/imgextra/TB1qp._JpXXXXbkXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E4%B8%89%E6%96%87%E9%B1%BC&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50016807%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:20636507455_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "榴莲",
+                                "id": "16",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1bMFmMFXXXXXjaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%A6%B4%E8%8E%B2&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50150002%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:529732988234_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "鲜鸡蛋",
+                                "id": "17",
+                                "pic": "//img.alicdn.com/tps/TB1ukt_KFXXXXXgXVXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%B2%9C%E9%B8%A1%E8%9B%8B&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50012385%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "苹果",
+                                "id": "18",
+                                "pic": "//img.alicdn.com/tps/TB160d5KFXXXXcTXVXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%8B%B9%E6%9E%9C&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50050732%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "百香果",
+                                "id": "19",
+                                "pic": "//img.alicdn.com/tps/TB1Pox8KFXXXXaXXVXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%99%BE%E9%A6%99%E6%9E%9C&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A123188007%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "樱桃",
+                                "id": "20",
+                                "pic": "//img.alicdn.com/imgextra/TB1c2mFNFXXXXX3aXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%A8%B1%E6%A1%83&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50013097%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:8132478078_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "冰淇淋",
+                                "id": "21",
+                                "pic": "//img.alicdn.com/tfs/TB1BxtKdMoQMeJjy0FpXXcTxpXa-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/h5?q=%E5%86%B0%E6%B7%87%E6%B7%8B&catmap=50108542&service=xfzbz&from=catlistnew&closeP4P=true&scm=1007.13113.89009.tab:11_type:cat4_id:21_reason:_cat:123222007&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    },
+                    {
+                        "link": {
+                            "name": "排行榜",
+                            "type": "salesrank",
+                            "url": "http://h5.m.taobao.com/app/catranklist/www/s-nx-new-catmap-ranklist/index.html?&appId=5522&title=%E7%83%AD%E9%94%80%E6%A6%9C&params=%7B%22catlist%22%3A%2250008144%2C50012392%2C50013003%2C50008612%2C50598001%2C50009859%2C50003860%2C50002256%2C50016427%2C50010422%2C50008916%2C50012391%2C50008146%2C124356006%2C50013192%2C124372005%2C124350003%2C50009864%2C124348004%2C50008436%2C50011945%22%2C%22userpp%22%3A%221%22%2C%22industry%22%3A%2211%22%7D&scm=1007.13113.89009.tab:11_type:salesrank_id:0_reason:rankinglist_rn:90f5288b-6f0d-4a94-916e-933b798f529d&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113&spmb=8971817&spmc=spmc"
+                        },
+                        "type": "cat4",
+                        "title": "茶酒冲饮",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "天然粉粉",
+                                "id": "22",
+                                "pic": "//img.alicdn.com/imgextra/i3/TB1JABmNVXXXXXeaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E7%B2%89&catmap=50103286&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=540224743848&scm=1007.13113.89009.tab:11_type:cat4_id:540224743848_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "麦片",
+                                "id": "23",
+                                "pic": "//img.alicdn.com/imgextra/TB1skE1JpXXXXbuXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E9%BA%A6%E7%89%87&catmap=50103325&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=37800718515&scm=1007.13113.89009.tab:11_type:cat4_id:37800718515_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "牛奶",
+                                "id": "24",
+                                "pic": "//img.alicdn.com/imgextra/TB10Bo_KpXXXXchaXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%89%9B%E5%A5%B6&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50012392%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:531314895906_reason:second_page_switch_cat:50012392&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "咖啡",
+                                "id": "25",
+                                "pic": "//img.alicdn.com/imgextra/TB1gn23JVXXXXcjXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E5%92%96%E5%95%A1&catmap=50103285&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=19564101944&scm=1007.13113.89009.tab:11_type:cat4_id:19564101944_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "成人奶粉",
+                                "id": "26",
+                                "pic": "//img.alicdn.com/imgextra/TB1csJjLVXXXXXcapXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%88%90%E4%BA%BA%E5%A5%B6%E7%B2%89&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50010422%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:43380843599_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "饮料",
+                                "id": "27",
+                                "pic": "//img.alicdn.com/imgextra/TB1po1UNXXXXXXDXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E9%A5%AE%E6%96%99&catmap=50103283&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=538066478445&scm=1007.13113.89009.tab:11_type:cat4_id:538066478445_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "乌龙茶",
+                                "id": "28",
+                                "pic": "//img.alicdn.com/imgextra/TB1f8YjKFXXXXX2XXXX1rlbFXXX.JPG",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E4%B9%8C%E9%BE%99%E8%8C%B6&catmap=56392007&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=525680119893&scm=1007.13113.89009.tab:11_type:cat4_id:525680119893_reason:_cat:124356006;124334003;124332006;124350003;124358002;124374002&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "普洱",
+                                "id": "29",
+                                "pic": "//img.alicdn.com/imgextra/TB113SIKXXXXXchXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%99%AE%E6%B4%B1&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50598001%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:532188828887_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "绿茶",
+                                "id": "30",
+                                "pic": "//img.alicdn.com/imgextra/TB1fW_BJFXXXXc.XXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E7%BB%BF%E8%8C%B6&catmap=56392007&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=24956992163&scm=1007.13113.89009.tab:11_type:cat4_id:24956992163_reason:_cat:124648001,124630003,124630002,124646001,124638001,124642002,124642001,124640001,124636002,124644001&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "花草茶",
+                                "id": "31",
+                                "pic": "//img.alicdn.com/imgextra/TB13rjeJFXXXXXdXpXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%8A%B1%E8%8D%89%E8%8C%B6&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008612%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:36260594295_reason:second_page_switch_cat:50008612,50010421&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "红茶",
+                                "id": "32",
+                                "pic": "//img.alicdn.com/imgextra/i3/T1.6u4FSRcXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%BA%A2%E8%8C%B6&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A124372005%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:21066023194_reason:second_page_switch_cat:124372005,124348004,124392005&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "白茶",
+                                "id": "33",
+                                "pic": "//img.alicdn.com/imgextra/TB1VkvmJFXXXXasXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%99%BD%E8%8C%B6&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A124486012%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:7405857435_reason:second_page_switch_cat:124486012;124462015;124466012;124510010;124488014&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "红酒",
+                                "id": "34",
+                                "pic": "//img.alicdn.com/imgextra/TB15N.TPpXXXXaWXpXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%BA%A2%E9%85%92&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50013003%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:541389358352_reason:second_page_switch_cat:50013003&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "白酒",
+                                "id": "35",
+                                "pic": "//img.alicdn.com/imgextra/i1/TB1fZs.KFXXXXaIXpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%99%BD%E9%85%92&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008144%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:522678405595_reason:second_page_switch_cat:50008144&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "洋酒",
+                                "id": "36",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB1ZRVkGFXXXXXCaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E9%85%92&catmap=51054004&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=42549405614&scm=1007.13113.89009.tab:11_type:cat4_id:42549405614_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "啤酒",
+                                "id": "37",
+                                "pic": "//img.alicdn.com/imgextra/i3/TB13pl_KpXXXXanXXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E5%95%A4%E9%85%92&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008146%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:520301026357_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "黄酒",
+                                "id": "38",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1tXGGOFXXXXXTaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%BB%84%E9%85%92&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008147%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:542944156796_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "保健酒",
+                                "id": "39",
+                                "pic": "//img.alicdn.com/tps/TB1w0qjKFXXXXbKXpXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E4%BF%9D%E5%81%A5%E9%85%92&params=%7B%22upnid%22%3A1%2C%22upbcat%22%3A50103292%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    },
+                    {
+                        "link": {
+                            "name": "排行榜",
+                            "type": "salesrank",
+                            "url": "http://h5.m.taobao.com/app/catranklist/www/s-nx-new-catmap-ranklist/index.html?&appId=5522&title=%E7%83%AD%E9%94%80%E6%A6%9C&params=%7B%22catlist%22%3A%2250016845%2C50009838%2C50009839%2C50009823%2C50012390%2C50016850%2C50009822%2C50009879%2C50009824%2C50025696%2C50016848%2C124576009%2C124304002%2C50009856%2C50025684%2C50050381%2C50009880%2C50050574%2C50009827%2C50009826%2C50012188%22%2C%22userpp%22%3A%221%22%2C%22industry%22%3A%2211%22%7D&scm=1007.13113.89009.tab:11_type:salesrank_id:0_reason:rankinglist_rn:90f5288b-6f0d-4a94-916e-933b798f529d&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113&spmb=8971817&spmc=spmc"
+                        },
+                        "type": "cat4",
+                        "title": "粮油干货",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "方便面",
+                                "id": "40",
+                                "pic": "//img.alicdn.com/imgextra/TB17kBmJVXXXXbcXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%96%B9%E4%BE%BF%E9%9D%A2&params=%7B%22upnid%22%3A1%2C%22upbcat%22%3A50038106%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:531035348997_reason:second_page_switch_cat:50016845&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "食用油",
+                                "id": "41",
+                                "pic": "//img.alicdn.com/imgextra/TB1AWKYJVXXXXa8XpXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%A3%9F%E7%94%A8%E6%B2%B9&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50050381%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:43929650848_reason:second_page_switch_cat:50050381,50050379,50050391,50050397,50050393,50050390,50050396,50050394,50025676&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "辣椒酱",
+                                "id": "42",
+                                "pic": "//img.alicdn.com/imgextra/i1/TB1BzINOpXXXXXvXpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%BE%A3%E6%A4%92%E9%85%B1&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50050642%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:542649213334_reason:second_page_switch_cat:50050642&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "大米",
+                                "id": "43",
+                                "pic": "//img.alicdn.com/imgextra/i3/77546490/TB2mgeUjVXXXXbnXpXXXXXXXXXX_!!77546490.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E5%A4%A7%E7%B1%B3&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50009838%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:39680242038_reason:second_page_switch_cat:50009838,50009943&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "桂圆干",
+                                "id": "44",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB16VDYNFXXXXXoaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%A1%82%E5%9C%86%E5%B9%B2&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50012188%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:531049455050_reason:second_page_switch_cat:50012188&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "黄油",
+                                "id": "45",
+                                "pic": "//img.alicdn.com/imgextra/TB1JkpPMpXXXXXxXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%BB%84%E6%B2%B9&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A124304002%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:527972728583_reason:second_page_switch_cat:124304002&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "银耳",
+                                "id": "46",
+                                "pic": "//img.alicdn.com/imgextra/i3/TB1vHqJQpXXXXX5XFXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%93%B6%E8%80%B3&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50012193%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:42813936485_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "香菇",
+                                "id": "47",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1sCnhPFXXXXamXpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%A6%99%E8%8F%87&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50009778%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:545589307002_reason:second_page_switch_cat:50009778&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "奶油",
+                                "id": "48",
+                                "pic": "//img.alicdn.com/imgextra/TB1LAb3KVXXXXXRapXXwu0bFXXX.png",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E5%A5%B6%E6%B2%B9&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50012390%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:38608697757_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "玉米挂面",
+                                "id": "49",
+                                "pic": "//img.alicdn.com/tps/TB1thSeKFXXXXXiXFXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E7%8E%89%E7%B1%B3%E6%8C%82%E9%9D%A2&catmap=50038111&service=xfzbz&from=catlistnew&closeP4P=true&scm=1007.13113.89009.tab:11_type:cat4_id:49_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "杂粮",
+                                "id": "50",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB1TjZMKVXXXXc5XpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E6%9D%82%E7%B2%AE&catmap=50009840&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=521328772890&scm=1007.13113.89009.tab:11_type:cat4_id:521328772890_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "红糖",
+                                "id": "51",
+                                "pic": "//img.alicdn.com/imgextra/i2/687193429/TB2UGjnb4vzQeBjSZFKXXXgXFXa_!!687193429.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E7%BA%A2%E7%B3%96&catmap=50009879&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=527948671411&scm=1007.13113.89009.tab:11_type:cat4_id:527948671411_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    },
+                    {
+                        "link": {
+                            "name": "排行榜",
+                            "type": "salesrank",
+                            "url": "http://h5.m.taobao.com/app/catranklist/www/s-nx-new-catmap-ranklist/index.html?&appId=5522&title=%E7%83%AD%E9%94%80%E6%A6%9C&params=%7B%22catlist%22%3A%2250008044%2C50005774%2C50008048%2C50010420%2C50015221%2C50009980%2C50005948%2C50005947%2C50012186%2C50050416%2C50009984%22%2C%22userpp%22%3A%221%22%2C%22industry%22%3A%2211%22%7D&scm=1007.13113.89009.tab:11_type:salesrank_id:0_reason:rankinglist_rn:90f5288b-6f0d-4a94-916e-933b798f529d&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113&spmb=8971817&spmc=spmc"
+                        },
+                        "type": "cat4",
+                        "title": "保健滋补",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "阿胶",
+                                "id": "52",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB1F7nSPVXXXXc7XFXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E9%98%BF%E8%83%B6&catmap=50029150&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=541809294373&scm=1007.13113.89009.tab:11_type:cat4_id:541809294373_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "蜂蜜",
+                                "id": "53",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB1wPxjGFXXXXcoXFXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%9C%82%E8%9C%9C&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50005774%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:40468713184_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "燕窝",
+                                "id": "54",
+                                "pic": "//img.alicdn.com/imgextra/i1/18458031211919833/T1iy_OFiJbXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E7%87%95%E7%AA%9D&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008044%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:19491673076_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "枸杞",
+                                "id": "55",
+                                "pic": "//img.alicdn.com/imgextra/i4/851633921/TB2Yh4wcmJjpuFjy0FdXXXmoFXa_!!851633921.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E6%9E%B8%E6%9D%9E&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50008048%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:525725734778_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "酵素",
+                                "id": "56",
+                                "pic": "//img.alicdn.com/imgextra/TB1Bkq1JFXXXXcXXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E9%85%B5%E7%B4%A0&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50026893%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:522561805621_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "蛋白粉",
+                                "id": "57",
+                                "pic": "//img.alicdn.com/tps/TB1t7ydKFXXXXX1XFXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E8%9B%8B%E7%99%BD&catmap=50032617&service=xfzbz&from=catlistnew&closeP4P=true&scm=1007.13113.89009.tab:11_type:cat4_id:57_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "三七",
+                                "id": "58",
+                                "pic": "//img.alicdn.com/imgextra/i1/TB10UIEHVXXXXafaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E4%B8%89%E4%B8%83&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50009980%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:14979104839_reason:second_page_switch_cat:50009980&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "胶原蛋白",
+                                "id": "59",
+                                "pic": "//img.alicdn.com/tps/TB1txGmKFXXXXc0XXXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50026826%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "石斛",
+                                "id": "60",
+                                "pic": "//img.alicdn.com/imgextra/TB1z9OJKXXXXXbZXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E7%9F%B3%E6%96%9B&catmap=50107661&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=44818551084&scm=1007.13113.89009.tab:11_type:cat4_id:44818551084_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "膳食纤维",
+                                "id": "61",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB18mEPIVXXXXcKXpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E8%86%B3%E9%A3%9F%E7%BA%A4%E7%BB%B4&catmap=50106159&service=xfzbz&from=catlistnew&closeP4P=true&nid_up=42731783214&scm=1007.13113.89009.tab:11_type:cat4_id:42731783214_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "葡萄籽",
+                                "id": "62",
+                                "pic": "//img.alicdn.com/tps/TB1ZeekKFXXXXaRXpXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?q=%E8%91%A1%E8%90%84%E7%B1%BD&catmap=50106198&service=xfzbz&from=catlistnew&closeP4P=true&scm=1007.13113.89009.tab:11_type:cat4_id:62_reason:_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "左旋肉碱",
+                                "id": "63",
+                                "pic": "//img.alicdn.com/tps/TB1bG83KFXXXXazaXXXXXXXXXXX-375-375.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=11&title=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1&params=%7B%22upnid%22%3A0%2C%22upbcat%22%3A50026921%2C%22industry%22%3A11%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:11_type:cat4_id:_reason:second_page_switch_cat:&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    },
+                    {
+                        "link": {},
+                        "type": "brand",
+                        "title": "食品品牌",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "147280915",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1GWDpKXXXXXb.XXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50106154,50002766,50008825,50035978,56392007,57070002,50108542&ppath=20000:147280915&q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:147280915_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "11714362",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1eWlgKFXXXXXaXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50002766,50035978,56392007,57070002,50108542&ppath=20000:11714362&q=%E7%99%BE%E8%8D%89%E5%91%B3&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:11714362_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "7724367",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB14DuKSXXXXXXUXpXXXXXXXXXX",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50106154,50103280,50002766,50008825,50035978,56392007,57070002,50108542&ppath=20000:7724367&q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:7724367_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "20328",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1_yfmLXXXXXb5XpXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50103280,50002766,50035978,56392007,50108542&ppath=20000:20328&q=%E4%BC%8A%E5%88%A9&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:20328_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "4539516",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1ByUvIVXXXXadapXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50035978,50002766,50108542&ppath=20000:4539516&q=%E4%BA%94%E8%8A%B3%E6%96%8B&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:4539516_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "3229901",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB192.QIVXXXXcnXpXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50106154,50103280,50002766,50008825,50035978,56392007,57070002,50108542,55854025&ppath=20000:3229901&q=%E4%BF%AE%E6%AD%A3&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:3229901_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "152974195",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1iXJxIFXXXXbjXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50035978,50002766,50108542&ppath=20000:152974195&q=%E5%98%89%E5%8D%8E&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:152974195_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "3993829",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1yFmNHVXXXXbMXVXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=55854025,50106154&ppath=20000:3993829&q=%E9%BA%A6%E6%96%AF%E6%B3%B0%E5%85%8B&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:3993829_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "44652",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1wucURXXXXXbJXXXXXXXXXXXX",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50106154,50103282,50103280,50002766,50008825,50035978,56392007,57070002,50108542,55854025&ppath=20000:44652&q=%E5%90%8C%E4%BB%81%E5%A0%82&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:44652_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "8339639",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1_cJjLpXXXXa8XpXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50103280,50002766,50035978,56392007,50108542&ppath=20000:8339639&q=%E7%9F%A5%E5%91%B3%E8%A7%82&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:8339639_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "7625988",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1tMPBMpXXXXXGXFXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50106154,50103280,50002766,50008825,50035978,56392007,50108542&ppath=20000:7625988&q=%E6%9D%A5%E4%BC%8A%E4%BB%BD&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:7625988_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "",
+                                "id": "120932",
+                                "pic": "//img.taobaocdn.com/bao/uploaded/TB1nTPcPXXXXXagXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//s.m.taobao.com/search.htm?catmap=50108396,50103280,50002766,50035978,56392007,50108542&ppath=20000:120932&q=%E5%85%89%E6%98%8E&quality=new&service=xfzbz&from=catlist&closeP4P=true&scm=1007.13113.89009.tab:11_type:brand_id:120932_reason:_cat:industry_11&pvid=90f5288b-6f0d-4a94-916e-933b798f529d&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    }
+                ],
+                "spmc": "shipin",
+                "imgQuality": "1",
+                "industry": "11"
+            }
+        ],
+        "pvid": "90f5288b-6f0d-4a94-916e-933b798f529d",
+        "scm": "1007.13113.89009.0",
+        "version": 1.0,
+        "tpp_trace": "0bb6121915058187639601671ef16e",
+        "status": "success"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "2.0"
+}

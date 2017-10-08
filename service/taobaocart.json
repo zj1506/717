@@ -1,0 +1,14 @@
+{
+    "api": "mtop.trade.addBag",
+    "data": {
+        "itemId": "540960551400",
+        "cartId": 522988811658,
+        "addedTotalItemPrice": "58.00",
+        "skuId": "3409446495652",
+        "cartQuantity": 36
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "3.0"
+}
